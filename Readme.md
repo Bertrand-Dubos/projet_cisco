@@ -1,5 +1,5 @@
-  # <b>Projet Cisco<b>
+  # Projet Cisco
 
 <img src="cisco.jpg" alt="Logo Projet Cisco" width="250">
 
-  Bienvenue dans le projet Cisco !
+  Bienvenue dans mon lab de travaux pratiques !
