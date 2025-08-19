@@ -1,1 +1,1 @@
-![Logo PacketTracer](pkt.png)
+![Logo PacketTracer](pkt.PNG)
