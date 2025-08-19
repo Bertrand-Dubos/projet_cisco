@@ -1,8 +1,5 @@
-"voici mes travaux pratiques Packet tracer
+  Projet Cisco
 
-#![Logo Projet Cisco](cisco.jpg)
-Projet Cisco
-
-<img src="cisco.jpg" alt="Logo Projet Cisco" width="200">
+<img src="cisco.jpg" alt="Logo Projet Cisco" width="150">
 
   Bienvenue dans le projet Cisco !
