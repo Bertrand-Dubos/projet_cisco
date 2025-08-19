@@ -1,3 +1,3 @@
 voici mes travaux pratiques Packet tracer
 
-![Logo Projet Cisco](cisco.png)
+![Logo Projet Cisco](cisco.jpg)
